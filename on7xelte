@@ -1,0 +1,15 @@
+{
+"website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
+"news_url":"https:\/\/t.me\/Havoc_OS",
+"addons":[
+{"title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"},
+{"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
+"developer": "Douglas Gomes (D.G)",
+"developer_url": "https:\/\/t.me\/Douglas_DG",
+"forum_url": "https:\/\/forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/rom-havoc-os-2-1-t3890013",
+"filename":"Havoc-OS-v2.1-20190114-on7xelte-Official.zip",
+"build_date":"20190114-2242",
+"filesize":"377286586",
+"md5":"1dba7d8e2fb033144d2ee81ab4147d05",
+"url":"https:\/\/sourceforge.net\/projects/havoc-os\/files/on7xelte\/Havoc-OS-v2.1-20190114-on7xelte-Official.zip\/download",
+}
