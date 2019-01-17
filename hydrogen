@@ -1,0 +1,24 @@
+{
+   "website_url":"https://sourceforge.net/projects/havoc-os/",
+   "news_url":"https://t.me/Havoc_OS",
+   "addons": [
+   {
+      "title":"GApps",
+      "summary":"Official Open GApps",
+      "url":"http://opengapps.org"
+   },
+   {
+      "title":"Magisk",
+      "summary":"Systemless Root Installer",
+      "url":"https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"
+   }
+   ],
+   "developer":"Alexandra Vissace (AlexandraV)",
+   "developer_url":"https://t.me//ROMHouseROMs",
+   "forum_url":"https:\/\/forum.xda-developers.com/mi-max/development/rom-havoc-os-t3889867",
+   "build_date":"20190112-0000",
+   "url":"https://sourceforge.net/projects/havoc-os/files/hydrogen/Havoc-OS-v2.1-20190117-hydrogen-Official.zip/download",
+   "filename":"Havoc-OS-v2.1-20190117-hydrogen-Official.zip",
+   "filesize":"566126182",
+   "md5":""
+}
