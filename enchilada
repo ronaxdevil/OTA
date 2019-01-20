@@ -13,12 +13,12 @@
       "url":"https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"
    }
    ],
-   "developer":"Tim W (timmah1984) + Sam S",
+   "developer":"Eliminater / Timmah1984",
    "developer_url":"",
    "forum_url":"https:\/\/forum.xda-developers.com/oneplus-6/development/rom-havoc-os-t3817805",
    "build_date":"20190116-0000",
-   "url":"https://sourceforge.net/projects/havoc-os/files/enchilada/Havoc-OS-v2.1-20190116-enchilada-Official.zip/download",
-   "filename":"Havoc-OS-v2.1-20190116-enchilada-Official.zip",
-   "filesize":"562700000",
-   "md5":""
+   "url":"https://sourceforge.net/projects/havoc-os/files/enchilada/Havoc-OS-v2.1-20190120-enchilada-Official.zip/download",
+   "file_name":"Havoc-OS-v2.1-20190120-enchilada-Official.zip",
+   "file_size":573802990,
+   "md5":"49c7650337a0e3cd25d46abd8328d276"
 }
