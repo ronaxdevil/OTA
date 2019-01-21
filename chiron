@@ -8,11 +8,11 @@
 "developer": "LightVortex",
 "developer_url": "https:\/\/t.me\/lightvortex242",
 "forum_url": "https:\/\/forum.xda-developers.com\/mi-mix-2\/development\/rom-havoc-os-t3883065/",
-"changelog": "",
-"filename":"Havoc-OS-v2.1-2019116-chiron-Official.zip",
-"build_date":"201916-0420",
-"filesize":"607849190",
-"md5":"7c903fbeb9099d2f8cf88444542df68e",
-"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/chiron\/Havoc-OS-v2.1-2019116-chiron-Official.zip\/download",
+"changelog": "https:\/\/t.me\/Havoc_OS\/627",
+"filename":"Havoc-OS-v2.1-20190121-chiron-Official.zip",
+"build_date":"20190121-0405",
+"filesize":"617161146",
+"md5":"9b3abd135d0cf06775d45056532835fe",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/chiron\/Havoc-OS-v2.1-20190121-chiron-Official.zip\/download",
 "error":true
 }
