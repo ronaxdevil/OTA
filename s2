@@ -1,0 +1,18 @@
+{
+"donate_url":"https:\/\/www.paypal.me\/himanshu1997",
+"website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
+"news_url":"https:\/\/t.me\/Havoc_OS",
+"addons":[
+{"title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"},
+{"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"},
+"developer": "HIMANSHU",
+"developer_url": "https:\/\/t.me\/WANTTOBILLIONAIRE",
+"forum_url": "https:\/\/forum.xda-developers.com\/le-2\/development\/pie-aosp-havoc-os-t3896487",
+"changelog": "https:\/\/t.me\/Havoc_OS",
+"filename":"Havoc-OS-v2.1-20190202-s2-Official.zip",
+"build_date":"20190202-1823",
+"filesize":"595176085",
+"md5":"f47f0f5b0e2b038d2da76ff2385b4c48",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/s2\/Havoc-OS-v2.1-20190202-s2-Official.zip\/download",
+"error":true
+}
