@@ -15,10 +15,10 @@
    ],
    "developer":"rsyhan (Yuhan)",
    "developer_url":"https://t.me/rsyhan",
-   "forum_url":"",
-   "build_date":"20190130-0000",
-   "url":"https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v2.1-20190130-platina-Official.zip/download",
-   "filename":"Havoc-OS-v2.1-20190130-platina-Official.zip",
-   "filesize":"692709808",
-   "md5":"4e1c3ff72c4457282e600aad761f54b8"
+   "forum_url":"https://forum.xda-developers.com/mi-8-Lite/development/rom-havocos-xiaomi-mi-8-lite-t3897058",
+   "build_date":"20190206-1554",
+   "url":"https://sourceforge.net/projects/havoc-os/files/platina/Havoc-OS-v2.2-20190206-platina-Official.zip/download",
+   "filename":"Havoc-OS-v2.2-20190206-platina-Official.zip",
+   "file_size":637149338,
+   "md5":"1a57c8f084de5378ae7359efcef4a556"
 }
