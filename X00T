@@ -1,4 +1,5 @@
 {
+"donate_url":"https:\/\/www.paypal.me\/ANUSHEK",
 "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
@@ -6,10 +7,12 @@
 {"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
 "developer": "travarilo",
 "developer_url": "https:\/\/t.me\/travarilo",
-"forum_url": "https:\/\/forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-havoc-os-t3852830",
-"filename":"Havoc-OS-v2.1-20190122-X00T-Official.zip",
-"build_date":"20190122-1642",
-"filesize":"740676591",
-"md5":"4a9ab3f5a400d3987e671607ff4e9822",
-"url":"https:\/\/sourceforge.net\/projects/havoc-os\/files/x00td\/Havoc-OS-v2.1-20190122-X00T-Official.zip\/download",
+"forum_url": "https:\/\/forum.xda-developers.com\/asus-zenfone-max-pro-m1\/development\/rom-havoc-os-t3852830",
+"changelog": "",
+"filename":"Havoc-OS-v2.2-20190207-X00T-Official.zip",
+"build_date":"20190207-0358",
+"filesize":"736773383",
+"md5":"ff74c8f5605df57a5669ae237807e9ae",
+"url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/x00td\/Havoc-OS-v2.2-20190207-X00T-Official.zip\/download",
+"error":true
 }
