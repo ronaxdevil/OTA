@@ -4,8 +4,8 @@
 "news_url":"https:\/\/t.me\/Havoc_OS",
 "addons":[
 {"title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"},
-{"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
-{"title":"Havoc-OS Boot Logo","summary":"Custom Splash Screen For The Nextbit Robin","url":"http:\/\/androidfilehost.com\/?fid=1395089523397888358"},
+{"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"},
+{"title":"Havoc-OS Boot Logo","summary":"Custom Splash Screen For The Nextbit Robin","url":"http:\/\/androidfilehost.com\/?fid=1395089523397888358"}],
 "developer": "Anierin Bliss",
 "developer_url": "https:\/\/forum.xda-developers.com\/member.php?u=7125966",
 "forum_url": "https:\/\/forum.xda-developers.com\/nextbit-robin\/development\/rom-havoc-os-t3816124",
