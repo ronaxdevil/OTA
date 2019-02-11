@@ -1,14 +1,24 @@
 {
- "website_url":"https:\/\/sourceforge.net\/projects\/havoc-os\/",
- "news_url":"https:\/\/t.me\/Havoc_OS",
- "addons":[
- {"title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"},
- {"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
-   "developer": "Ronax",
-   "developer_url": "https:\/\/t.me\/Ronax",
-   "file_name":"Havoc-OS-v2.1-20190113-sanders-Official.zip",
-   "file_size":546405644,
-   "md5":"1c3730dbae17694ba1d9d1a6b9a088c0"  
- ""url":"https:\/\/sourceforge.net\/projects\/havoc-os\/files\/sanders\/Havoc-OS-v2.1-20190113-sanders-Official.zip\/download"
+   "website_url":"https://sourceforge.net/projects/havoc-os/",
+   "news_url":"https://t.me/Havoc_OS",
+   "addons": [
+   {
+      "title":"GApps",
+      "summary":"Official Open GApps",
+      "url":"http://opengapps.org"
+   },
+   {
+      "title":"Magisk",
+      "summary":"Systemless Root Installer",
+      "url":"https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445"
+   }
+   ],
+   "developer":"@Ronax",
+   "developer_url":"https://t.me//Ronax",
+   "forum_url":"https:\/\/forum.xda-developers.com/moto-g5s-plus/development/rom-havoc-os-2-0-pie-t3875154",
+   "build_date":"20190211-0000",
+   "url":"https://sourceforge.net/projects/havoc-os/files/sanders/Havoc-OS-v2.2-20190211-sanders-Official.zip/download",
+   "file_name":"Havoc-OS-v2.2-20190211-sanders-Official.zip",
+   "file_size":548138453,
+   "md5":"ff87a0c46a90f211867b1138e896c0cb"
 }
-
